@@ -1,0 +1,32 @@
+# IDE - JetBrains
+.idea/
+
+# IDE - VSCode
+.vscode/
+
+# Build output
+build/
+**/build/
+
+# STM32CubeMX user-specific
+.mxproject
+
+# CMake auto-generated (user-specific paths)
+cmake/
+CMakePresets.json
+
+# Claude AI
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled objects
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
